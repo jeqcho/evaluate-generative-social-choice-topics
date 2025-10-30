@@ -1,0 +1,12 @@
+[project]
+name = "llm-diverse-statements"
+version = "0.1.0"
+description = "Generate diverse perspectives on topics using LLMs"
+requires-python = ">=3.9"
+dependencies = [
+    "openai>=1.0.0",
+    "python-dotenv>=1.0.0",
+    "matplotlib>=3.7.0",
+    "numpy>=1.24.0",
+]
+

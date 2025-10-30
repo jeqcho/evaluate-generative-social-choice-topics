@@ -1,0 +1,42 @@
+{
+  "1": {
+    "Stance": "Strict fines and visible, consistent enforcement",
+    "Reason": "Clear penalties combined with a high perceived likelihood of being caught deter littering. Regular patrols and on-the-spot fines create immediate consequences that shift cost-benefit calculations toward proper disposal."
+  },
+  "2": {
+    "Stance": "Make proper disposal the path of least resistance with better infrastructure",
+    "Reason": "People litter less when bins are plentiful, clearly labeled, well-maintained, and placed where waste is generated (transit stops, food areas, park exits). Frequent collection and design that prevents overflow and pests reduces excuses to litter."
+  },
+  "3": {
+    "Stance": "Education and norm-shifting campaigns",
+    "Reason": "Sustained public messaging, school curricula, and community role models can redefine littering as socially unacceptable. Highlighting positive norms (most people don\u2019t litter) and the local impacts builds long-term habit change."
+  },
+  "4": {
+    "Stance": "Deposit-return systems for containers and small incentives",
+    "Reason": "Refundable deposits on bottles/cans and small rewards for proper disposal make littered items economically valuable, reducing litter and mobilizing informal collection. Evidence from \u2018bottle bill\u2019 regions shows significant declines in container litter."
+  },
+  "5": {
+    "Stance": "Extended Producer Responsibility and packaging redesign",
+    "Reason": "Requiring producers to fund cleanup and design less \u2018litterable\u2019 packaging shifts incentives upstream. Clear labeling, fewer single-use items, and tethered caps reduce items likely to become litter and the public costs of managing them."
+  },
+  "6": {
+    "Stance": "Community ownership: adopt-a-spot and volunteer cleanups",
+    "Reason": "When residents, schools, and businesses \u2018own\u2019 a block or park, regular cleanups and pride reduce litter. Visibly clean spaces discourage new litter (norm cueing), and participation builds accountability without heavy policing."
+  },
+  "7": {
+    "Stance": "Behavioral nudges and playful design",
+    "Reason": "Small cues\u2014footprints leading to bins, brightly colored \u2018fun\u2019 bins, clear lines-of-sight, or gamified challenges\u2014reduce friction and make correct behavior satisfying, cutting litter without coercion or large budgets."
+  },
+  "8": {
+    "Stance": "Targeted policies for hotspots, nightlife, and events",
+    "Reason": "Litter is spiky in time and space. Requiring event organizers to provide bins and post-cleanup bonds, adding night-shift crews in entertainment districts, and placing ashtrays near bars addresses predictable surges efficiently."
+  },
+  "9": {
+    "Stance": "Restorative justice and community service over punitive fines",
+    "Reason": "Fines can be inequitable and hard to collect. Mandating litter-pickup service or education for offenders repairs harm, builds empathy for maintenance labor, and can reduce repeat offenses while avoiding disproportionate impacts."
+  },
+  "10": {
+    "Stance": "Data- and tech-enabled management with privacy safeguards",
+    "Reason": "Smart sensors for bin fullness, hotspot mapping, and citizen reporting apps help deploy crews and bins where needed. Limited, transparent use of cameras or AI (if any) with strict privacy rules can target chronic dumping without over-surveillance."
+  }
+}

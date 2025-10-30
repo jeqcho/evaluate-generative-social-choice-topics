@@ -1,0 +1,102 @@
+{
+  "1": {
+    "Stance": "Protect speech with content\u2011neutral time, place, and manner rules",
+    "Criteria": [
+      "free speech",
+      "viewpoint neutrality",
+      "time-place-manner",
+      "safety"
+    ],
+    "Reason": "Administrators should maximize space for expression while using content\u2011neutral limits to prevent disruption and ensure safety, avoiding decisions that favor one viewpoint."
+  },
+  "2": {
+    "Stance": "Prioritize campus safety and operations with firm code enforcement",
+    "Criteria": [
+      "safety",
+      "non-disruption",
+      "compliance",
+      "operations"
+    ],
+    "Reason": "Demonstrations are welcome until they threaten safety, obstruct classes, or occupy buildings; at that point, rules must be enforced consistently to protect the academic mission."
+  },
+  "3": {
+    "Stance": "Facilitate structured dialogue and educational engagement",
+    "Criteria": [
+      "dialogue",
+      "education",
+      "de-escalation",
+      "civility"
+    ],
+    "Reason": "Universities should sponsor moderated forums, teach\u2011ins, and mediation to channel energy into learning and reduce polarization and miscommunication."
+  },
+  "4": {
+    "Stance": "Adopt a trauma\u2011informed, student support approach",
+    "Criteria": [
+      "well-being",
+      "inclusivity",
+      "anti-harassment",
+      "support services"
+    ],
+    "Reason": "Provide targeted support to affected communities, enforce anti\u2011harassment policies, and ensure students feel safe from intimidation, regardless of identity or viewpoint."
+  },
+  "5": {
+    "Stance": "Use restorative justice for nonviolent violations",
+    "Criteria": [
+      "restoration",
+      "proportionality",
+      "due process",
+      "amnesty"
+    ],
+    "Reason": "When rules are violated without violence, prioritize restorative conversations, education, and proportionate sanctions to maintain trust and learning over punishment."
+  },
+  "6": {
+    "Stance": "Publish clear policies and transparent escalation protocols",
+    "Criteria": [
+      "clarity",
+      "predictability",
+      "consistency",
+      "communication"
+    ],
+    "Reason": "Advance guidance on permitting, locations, noise, and escalation ladders reduces confusion, prevents ad hoc decisions, and builds legitimacy for administrative actions."
+  },
+  "7": {
+    "Stance": "Maintain institutional neutrality and protect academic freedom",
+    "Criteria": [
+      "neutrality",
+      "academic freedom",
+      "non-partisanship",
+      "trust"
+    ],
+    "Reason": "Administrators should avoid institutional political statements on contested issues, focusing on safeguarding speech and research to preserve broad community trust."
+  },
+  "8": {
+    "Stance": "Engage law enforcement only as a last resort",
+    "Criteria": [
+      "de-escalation",
+      "proportionality",
+      "last resort",
+      "harm reduction"
+    ],
+    "Reason": "Rely first on dialogue and campus resources; involve police only when there is imminent harm or serious crime, minimizing the risk of escalation and trauma."
+  },
+  "9": {
+    "Stance": "Draw bright lines against hate, threats, and intimidation",
+    "Criteria": [
+      "anti-bigotry",
+      "dignity",
+      "equal protection",
+      "safe environment"
+    ],
+    "Reason": "Clearly distinguish protected speech from prohibited conduct; explicitly bar antisemitism, Islamophobia, and other bigotry, and act quickly on doxxing or threats."
+  },
+  "10": {
+    "Stance": "Use shared governance and after\u2011action transparency",
+    "Criteria": [
+      "shared governance",
+      "accountability",
+      "participation",
+      "legitimacy"
+    ],
+    "Reason": "Include students, faculty, and staff in planning and review; publish after\u2011action reports to learn from events and build durable consensus on protest management."
+  }
+}

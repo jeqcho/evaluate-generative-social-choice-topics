@@ -1,0 +1,102 @@
+{
+  "1": {
+    "Stance": "Mandate voter\u2011verifiable paper ballots and routine risk\u2011limiting audits nationwide.",
+    "Criteria": [
+      "verifiability",
+      "auditability",
+      "paper trail",
+      "statistical rigor"
+    ],
+    "Reason": "Tangible paper records and statistically sound audits let the public see that results can be checked and corrected, reducing doubts about machines or tabulation errors."
+  },
+  "2": {
+    "Stance": "Professionalize and depoliticize election administration with independent, nonpartisan boards and standardized training.",
+    "Criteria": [
+      "independence",
+      "professionalism",
+      "insulation-from-politics",
+      "competency"
+    ],
+    "Reason": "When trained professionals\u2014not partisan actors\u2014run elections under clear codes of conduct, people are less likely to suspect manipulation."
+  },
+  "3": {
+    "Stance": "Adopt radical transparency for processes and data while protecting voter privacy.",
+    "Criteria": [
+      "transparency",
+      "open data",
+      "privacy",
+      "observability"
+    ],
+    "Reason": "Live-streaming key steps, publishing logs and aggregate data, and explaining procedures allow anyone to watch the process, which builds confidence without exposing personal information."
+  },
+  "4": {
+    "Stance": "Use secure-by-design technology: open-source voting systems, rigorous certification, and continuous security testing.",
+    "Criteria": [
+      "cybersecurity",
+      "open-source",
+      "certification",
+      "bug bounties"
+    ],
+    "Reason": "Publicly reviewable code and independent testing make vulnerabilities easier to find and fix, countering fears of hidden flaws or tampering."
+  },
+  "5": {
+    "Stance": "Scale voter education and media literacy campaigns across schools, community groups, and local media.",
+    "Criteria": [
+      "education",
+      "literacy",
+      "outreach",
+      "continuity"
+    ],
+    "Reason": "Clear explanations of registration, counting timelines, and safeguards reduce confusion and make people less susceptible to rumors or bad information."
+  },
+  "6": {
+    "Stance": "Expand bipartisan and community observation at every stage\u2014from pre\u2011election testing to canvass and audits.",
+    "Criteria": [
+      "bipartisanship",
+      "community oversight",
+      "access",
+      "inclusivity"
+    ],
+    "Reason": "When observers from diverse parties and organizations can watch closely, mutual scrutiny increases legitimacy and reduces claims of one\u2011sided control."
+  },
+  "7": {
+    "Stance": "Standardize clear, frequent results reporting and expectation-setting about counting timelines.",
+    "Criteria": [
+      "expectation-setting",
+      "clarity",
+      "timeliness",
+      "consistency"
+    ],
+    "Reason": "Explaining why some ballots are counted later and providing regular updates prevents normal delays from being misread as suspicious activity."
+  },
+  "8": {
+    "Stance": "Establish federal baseline security and auditing standards while preserving local administration.",
+    "Criteria": [
+      "standards",
+      "consistency",
+      "federalism",
+      "baseline"
+    ],
+    "Reason": "Minimum nationwide safeguards ensure consistency and quality, while local officials keep flexibility for community needs\u2014addressing uneven trust across jurisdictions."
+  },
+  "9": {
+    "Stance": "Strengthen cross-platform responses to election misinformation with transparent policies and rapid fact\u2011checking.",
+    "Criteria": [
+      "misinformation-mitigation",
+      "transparency",
+      "speed",
+      "coordination"
+    ],
+    "Reason": "Clear, consistently applied content rules and fast corrections help prevent false narratives from filling information gaps during critical periods."
+  },
+  "10": {
+    "Stance": "Increase public investment in election infrastructure, worker pay, and contingency planning.",
+    "Criteria": [
+      "resourcing",
+      "resilience",
+      "staffing",
+      "reliability"
+    ],
+    "Reason": "Well-funded equipment, well-trained and fairly paid workers, and robust backups reduce errors and bottlenecks that can erode confidence."
+  }
+}

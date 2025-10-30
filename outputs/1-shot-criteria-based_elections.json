@@ -1,0 +1,104 @@
+{
+  "1": {
+    "Stance": "Mandate voter-verified paper ballots and routine risk-limiting audits",
+    "Criteria": [
+      "verification",
+      "paper trail",
+      "RLA",
+      "statistical confidence",
+      "transparency"
+    ],
+    "Reason": "Paper records paired with statistically sound audits let the public independently verify results, catching errors and demonstrating accuracy without relying on trust alone."
+  },
+  "2": {
+    "Stance": "Adopt uniform national baseline standards for election administration",
+    "Criteria": [
+      "consistency",
+      "clarity",
+      "federal guidelines",
+      "best practices"
+    ],
+    "Reason": "Clear, standardized rules for key processes reduce confusion, minimize irregularities across states, and make outcomes easier to understand and compare."
+  },
+  "3": {
+    "Stance": "Preserve decentralized state and local control with stronger local transparency",
+    "Criteria": [
+      "decentralization",
+      "local trust",
+      "resilience",
+      "public observation"
+    ],
+    "Reason": "Distributed systems avoid single points of failure and allow communities to observe and understand their own processes, which can boost confidence in local results."
+  },
+  "4": {
+    "Stance": "Expand bipartisan poll worker recruitment and accredited observer access",
+    "Criteria": [
+      "bipartisanship",
+      "oversight",
+      "community",
+      "observer access"
+    ],
+    "Reason": "When trusted neighbors from different parties run and observe elections together, it reduces perceptions of partisan bias and increases legitimacy."
+  },
+  "5": {
+    "Stance": "Use open-source election software with public security testing",
+    "Criteria": [
+      "open-source",
+      "independent testing",
+      "bug bounties",
+      "audit logs"
+    ],
+    "Reason": "Transparent code and rigorous third-party testing let experts find and fix vulnerabilities, and audit logs enable end-to-end scrutiny of systems."
+  },
+  "6": {
+    "Stance": "Require voter ID with robust, free, and accessible provisions",
+    "Criteria": [
+      "integrity",
+      "accessibility",
+      "free IDs",
+      "no disenfranchisement"
+    ],
+    "Reason": "For those who value ID checks, this can reassure integrity, while free IDs, mobile issuance, and easy alternatives ensure no eligible voter is excluded."
+  },
+  "7": {
+    "Stance": "Expand convenient voting options with end-to-end ballot tracking",
+    "Criteria": [
+      "access",
+      "early voting",
+      "mail ballots",
+      "tracking",
+      "wait-time reduction"
+    ],
+    "Reason": "Positive, predictable voter experiences and the ability to track a ballot\u2019s status build confidence that every vote is received and counted."
+  },
+  "8": {
+    "Stance": "Proactive public communication about processes, timelines, and delays",
+    "Criteria": [
+      "expectation-setting",
+      "real-time updates",
+      "process explainers",
+      "data transparency"
+    ],
+    "Reason": "Explaining why counts take time, how verification works, and when to expect updates reduces speculation and fills information gaps that fuel doubt."
+  },
+  "9": {
+    "Stance": "Swift, neutral resolution of disputes and accountability for interference",
+    "Criteria": [
+      "rule of law",
+      "timeliness",
+      "due process",
+      "deterrence"
+    ],
+    "Reason": "Clear, timely legal processes for challenges\u2014and consequences for intimidation or unlawful interference\u2014signal that problems are handled fairly and firmly."
+  },
+  "10": {
+    "Stance": "Invest in nonpartisan civics and media literacy education",
+    "Criteria": [
+      "education",
+      "misinformation resilience",
+      "curriculum",
+      "public campaigns"
+    ],
+    "Reason": "When people understand how elections work and can evaluate claims critically, they are less susceptible to false narratives that erode trust."
+  }
+}

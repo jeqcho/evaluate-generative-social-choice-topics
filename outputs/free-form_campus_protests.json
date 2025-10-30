@@ -1,0 +1,42 @@
+{
+  "1": {
+    "Stance": "Adopt a content-neutral free speech approach with clear time, place, and manner rules.",
+    "Reason": "Universities should protect robust expression regardless of viewpoint and only limit speech based on neutral criteria (noise, blocking access, safety). This upholds academic freedom and, for public institutions, First Amendment obligations while maintaining campus order."
+  },
+  "2": {
+    "Stance": "Prioritize safety and enforce existing conduct codes consistently and promptly.",
+    "Reason": "Administrators should set bright-line rules against harassment, threats, property damage, and disruption of classes, and intervene early when lines are crossed. A safety-first lens protects all students and minimizes escalation."
+  },
+  "3": {
+    "Stance": "Facilitate structured dialogue and educational forums alongside demonstrations.",
+    "Reason": "Pair protests with teach-ins, moderated dialogues, and faculty-led discussions to channel high emotion into learning and mutual understanding, aligning with the university\u2019s educational mission and reducing polarization."
+  },
+  "4": {
+    "Stance": "Use restorative practices when harm occurs rather than defaulting to punitive measures.",
+    "Reason": "When incidents cause fear or offense (e.g., perceived hateful speech), convene restorative circles and mediated conversations, offer support to affected communities, and focus on repair and learning to avoid entrenching divisions."
+  },
+  "5": {
+    "Stance": "Center legal compliance and viewpoint neutrality, with tailored policies for public vs. private institutions.",
+    "Reason": "Public universities must adhere to the First Amendment and avoid viewpoint discrimination; private universities should honor stated free expression commitments. Carefully distinguish protected speech from true threats or incitement to reduce legal risk."
+  },
+  "6": {
+    "Stance": "Apply an equity and inclusion lens that safeguards speech while mitigating hate and targeted harassment.",
+    "Reason": "Administrators should counter antisemitism, Islamophobia, and anti-Arab/anti-Palestinian or anti-Israeli harassment with clear anti-bullying policies, doxxing protections, and support resources, ensuring vulnerable students feel safe without curbing protected expression."
+  },
+  "7": {
+    "Stance": "Protect academic continuity by minimizing disruption to classes, exams, and campus operations.",
+    "Reason": "Designate protest zones, require egress pathways, preserve quiet hours, and provide alternate venues when necessary to keep teaching and research on track while still accommodating demonstration rights."
+  },
+  "8": {
+    "Stance": "Empower student self-governance and co-create protest guidelines with student leaders.",
+    "Reason": "Engaging protest organizers, cultural groups, and student government to set norms (marshals, de-escalation training, cleanup, noninterference with classes) increases buy-in and reduces the need for top-down enforcement."
+  },
+  "9": {
+    "Stance": "Prohibit encampments and building occupations and enforce trespass rules if violated.",
+    "Reason": "Camping, blockades, and occupations pose safety, fire, and access risks and can coerce others. Issuing clear warnings, offering lawful alternatives, and, if necessary, removing encampments preserves safety and institutional integrity."
+  },
+  "10": {
+    "Stance": "Negotiate conditional allowances for demonstrations through time-limited agreements.",
+    "Reason": "Allow protests or temporary encampments under a memorandum of understanding that includes quiet hours, no harassment, access routes, and safety checks; in exchange, offer structured dialogue, avenues for policy input, and transparency on institutional decisions to avoid confrontations."
+  }
+}

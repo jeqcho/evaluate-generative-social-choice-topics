@@ -1,0 +1,42 @@
+{
+  "1": {
+    "Stance": "Professionalize and depoliticize election administration",
+    "Reason": "Create independent, merit-based election boards, shield administrators from partisan pressure, and fund offices reliably so people see referees who aren\u2019t wearing team colors."
+  },
+  "2": {
+    "Stance": "Mandate routine, public post-election audits",
+    "Reason": "Require risk-limiting audits and transparent hand-count spot checks after every contest, then publish simple summaries so the public can see independent verification of outcomes."
+  },
+  "3": {
+    "Stance": "Use paper ballots with strong chain-of-custody controls",
+    "Reason": "Paper trails enable recounts and audits, while secure storage, tamper-evident seals, and no wireless connectivity on tabulators reduce both real and perceived vulnerabilities."
+  },
+  "4": {
+    "Stance": "Radical transparency and open data",
+    "Reason": "Live-stream equipment testing, open logic-and-accuracy tests to the public, publish precinct-level results and cast-vote records where legal, and open-source election software so outsiders can verify processes."
+  },
+  "5": {
+    "Stance": "Make the voter experience trackable and predictable",
+    "Reason": "Ballot tracking, timely notifications, clear cure procedures, and shorter lines through better staffing and more sites build trust by giving voters direct, visible control of their own ballot journey."
+  },
+  "6": {
+    "Stance": "Bipartisan elite norms and commitments",
+    "Reason": "Have candidates from opposing parties jointly pledge to accept certified results, resolve rule disputes well before voting, and sanction party members who promote demonstrably false claims about outcomes."
+  },
+  "7": {
+    "Stance": "Civic education and pre-bunking misinformation",
+    "Reason": "Teach how counting works, why tallies shift as different vote types are processed, and common myths to ignore; partner with schools, local media, and community groups to normalize accurate expectations."
+  },
+  "8": {
+    "Stance": "Protect election workers and enforce the law",
+    "Reason": "Consistent prosecution of intimidation, doxxing, and tampering, plus visible security and hotlines for workers, reassures the public that the system is safeguarded and wrongdoing is punished."
+  },
+  "9": {
+    "Stance": "Set national floors while preserving local control",
+    "Reason": "A federal baseline for audits, machine certification, and recounts reduces confusion across states, while decentralized administration limits single points of failure and partisan capture."
+  },
+  "10": {
+    "Stance": "Address perceived fairness with structural reforms",
+    "Reason": "Independent redistricting, timely disclosure of campaign funding, and uniform conflict-of-interest rules signal that the rules of the game are fair, which boosts confidence in the results the rules produce."
+  }
+}

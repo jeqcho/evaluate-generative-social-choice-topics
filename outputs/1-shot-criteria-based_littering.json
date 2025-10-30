@@ -1,0 +1,102 @@
+{
+  "1": {
+    "Stance": "Raise fines and ensure visible, consistent enforcement",
+    "Criteria": [
+      "deterrence",
+      "accountability",
+      "clarity",
+      "consistency"
+    ],
+    "Reason": "People litter less when penalties are clear, substantial, and applied predictably by officers who are present and visible in known hotspots."
+  },
+  "2": {
+    "Stance": "Increase the number of bins and improve servicing schedules",
+    "Criteria": [
+      "convenience",
+      "accessibility",
+      "maintenance",
+      "design"
+    ],
+    "Reason": "If bins are plentiful, easy to find, and not overflowing, the friction to dispose properly is low, reducing the temptation to litter."
+  },
+  "3": {
+    "Stance": "Run sustained public education and school programs",
+    "Criteria": [
+      "awareness",
+      "norms",
+      "long-term",
+      "youth"
+    ],
+    "Reason": "Teaching why littering harms communities and embedding anti-litter norms early can shift attitudes and create lasting behavior change."
+  },
+  "4": {
+    "Stance": "Use behavioral nudges and design cues in public spaces",
+    "Criteria": [
+      "nudges",
+      "salience",
+      "social proof",
+      "low-cost"
+    ],
+    "Reason": "Prominent, well-placed bins, clear signage, footprints or arrows, and messages like 'Most people use the bin' leverage psychology to reduce litter without heavy penalties."
+  },
+  "5": {
+    "Stance": "Support community-led cleanups and stewardship programs",
+    "Criteria": [
+      "ownership",
+      "participation",
+      "pride",
+      "volunteerism"
+    ],
+    "Reason": "When residents adopt streets or parks and routinely clean them, it builds pride and social pressure against littering, making clean the community norm."
+  },
+  "6": {
+    "Stance": "Introduce deposits and rewards for returning containers",
+    "Criteria": [
+      "incentives",
+      "circularity",
+      "cost-effectiveness",
+      "producer-responsibility"
+    ],
+    "Reason": "Deposit-return schemes and reverse vending machines make littered items financially valuable to return, reducing litter and boosting recycling rates."
+  },
+  "7": {
+    "Stance": "Deploy technology for hotspots and efficient response",
+    "Criteria": [
+      "data-driven",
+      "targeting",
+      "efficiency",
+      "privacy"
+    ],
+    "Reason": "Sensors, reporting apps, and analytics guide crews to overflowing bins and recurring hotspots, allowing timely collection while balancing privacy in any monitoring."
+  },
+  "8": {
+    "Stance": "Use restorative penalties like cleanup service plus education",
+    "Criteria": [
+      "rehabilitation",
+      "fairness",
+      "proportionality",
+      "deterrence"
+    ],
+    "Reason": "Requiring offenders to join cleanup crews and complete brief education can correct behavior, feel fairer than steep fines, and still deter repeat offenses."
+  },
+  "9": {
+    "Stance": "Center equity by improving services in underserved areas",
+    "Criteria": [
+      "equity",
+      "environmental justice",
+      "access",
+      "trust"
+    ],
+    "Reason": "Litter clusters where bins and collection are lacking; investing in sanitation access without over-policing prevents litter while building community trust."
+  },
+  "10": {
+    "Stance": "Tackle sources by limiting single-use items and redesigning packaging",
+    "Criteria": [
+      "source reduction",
+      "regulation",
+      "EPR",
+      "enforcement"
+    ],
+    "Reason": "Banning hard-to-manage items and making producers responsible for end-of-life cuts litter upstream, reducing what reaches streets and parks in the first place."
+  }
+}

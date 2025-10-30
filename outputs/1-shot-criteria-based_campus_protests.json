@@ -1,0 +1,102 @@
+{
+  "1": {
+    "Stance": "Protect free speech with content-neutral time, place, and manner rules",
+    "Criteria": [
+      "free speech",
+      "viewpoint-neutrality",
+      "time-place-manner",
+      "First Amendment"
+    ],
+    "Reason": "Universities should permit demonstrations as long as rules are applied equally regardless of viewpoint to avoid chilling academic freedom."
+  },
+  "2": {
+    "Stance": "Safety-first approach with clear limits on conduct",
+    "Criteria": [
+      "safety",
+      "nonviolence",
+      "risk assessment",
+      "prevent harm"
+    ],
+    "Reason": "Administrators should prioritize preventing physical harm and property damage, intervening quickly when behavior poses credible risks."
+  },
+  "3": {
+    "Stance": "Enforce anti-harassment and civil rights protections rigorously",
+    "Criteria": [
+      "non-discrimination",
+      "Title VI",
+      "harassment",
+      "inclusive climate"
+    ],
+    "Reason": "Protests must not create a hostile environment; strong, specific enforcement against antisemitism, Islamophobia, and other bias protects equal access."
+  },
+  "4": {
+    "Stance": "Facilitate dialogue, teach-ins, and structured debate",
+    "Criteria": [
+      "dialogue",
+      "mediation",
+      "education",
+      "civic learning"
+    ],
+    "Reason": "Universities should channel activism into moderated forums that encourage critical inquiry and reduce polarization."
+  },
+  "5": {
+    "Stance": "Co-create protest guidelines with students and faculty",
+    "Criteria": [
+      "shared governance",
+      "co-creation",
+      "trust",
+      "legitimacy"
+    ],
+    "Reason": "Collaborative rulemaking builds buy-in, clarifies expectations, and lowers the likelihood of confrontations."
+  },
+  "6": {
+    "Stance": "Ensure academic continuity and limit disruptive encampments",
+    "Criteria": [
+      "continuity",
+      "operations",
+      "access",
+      "mission"
+    ],
+    "Reason": "Protecting teaching, research, and building access respects the rights of non-participants while allowing protest in appropriate spaces."
+  },
+  "7": {
+    "Stance": "Use graduated discipline with a restorative justice focus",
+    "Criteria": [
+      "proportionality",
+      "restorative",
+      "due process",
+      "consistency"
+    ],
+    "Reason": "Start with warnings and mediation; reserve serious sanctions for repeated or egregious violations, emphasizing repair over punishment."
+  },
+  "8": {
+    "Stance": "Practice radical transparency and predictable processes",
+    "Criteria": [
+      "transparency",
+      "predictability",
+      "clarity",
+      "trust"
+    ],
+    "Reason": "Clear policies, advance notice, documented decisions, and real-time updates reduce confusion and perceptions of bias."
+  },
+  "9": {
+    "Stance": "Keep police involvement as a last resort; prioritize de-escalation",
+    "Criteria": [
+      "de-escalation",
+      "autonomy",
+      "last resort",
+      "rights"
+    ],
+    "Reason": "Rely on trained campus responders and negotiation; involve external law enforcement only for imminent threats to life or safety."
+  },
+  "10": {
+    "Stance": "Provide trauma-informed support and accommodations",
+    "Criteria": [
+      "well-being",
+      "support",
+      "mental health",
+      "accommodations"
+    ],
+    "Reason": "Offer counseling, safety planning, academic flexibility, and protection from doxxing so all students can continue learning amid heightened tensions."
+  }
+}

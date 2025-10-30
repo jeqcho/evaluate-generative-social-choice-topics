@@ -1,0 +1,42 @@
+{
+  "1": {
+    "Stance": "Strict fines with consistent, visible enforcement",
+    "Reason": "Clear penalties deter littering when people believe they will be enforced. Regular patrols and issuing citations increase perceived risk and establish norms that littering is unacceptable."
+  },
+  "2": {
+    "Stance": "Abundant, well-placed bins and frequent maintenance",
+    "Reason": "People are less likely to litter when disposal is convenient. Data-driven placement, covered bins, and timely emptying prevent overflow and reduce \u2018excuse-based\u2019 littering."
+  },
+  "3": {
+    "Stance": "Deposit-return schemes for bottles and cans",
+    "Reason": "Refundable deposits create a direct financial incentive to return containers. Jurisdictions with deposits consistently report lower beverage container litter and higher recycling rates."
+  },
+  "4": {
+    "Stance": "Extended Producer Responsibility and packaging redesign",
+    "Reason": "Making producers fund cleanup and design for less waste reduces upstream litter. Clear labeling, fewer single-use items, and compostable options shrink the stream that becomes litter."
+  },
+  "5": {
+    "Stance": "Behavioral nudges and social norm campaigns",
+    "Reason": "Messaging that highlights community pride and \u2018most people don\u2019t litter\u2019 shifts behavior. Cleanliness cues, eye-catching bin design, and feedback signs leverage psychology to reduce litter."
+  },
+  "6": {
+    "Stance": "Community stewardship: adopt-a-spot and volunteer cleanups",
+    "Reason": "Local ownership builds accountability and civic pride. Regular cleanups, public recognition, and partnership with schools and businesses create social pressure against littering."
+  },
+  "7": {
+    "Stance": "Positive incentives and gamification for proper disposal",
+    "Reason": "Reward programs, points, or small prizes for using bins or reporting hotspots tap into motivation without being punitive. Apps and QR codes can verify use and engage residents."
+  },
+  "8": {
+    "Stance": "Targeted infrastructure for common litter types",
+    "Reason": "Cigarette butt receptacles, dog waste stations, and event-specific waste hubs address the biggest sources. Providing ashtrays, bag dispensers, and staffed stations reduces problem items at the source."
+  },
+  "9": {
+    "Stance": "Smart monitoring and data-driven hotspot management with privacy safeguards",
+    "Reason": "Sensors, audits, and limited-scope cameras help allocate cleaning resources and evaluate interventions. Clear privacy rules and transparency maintain public trust while improving outcomes."
+  },
+  "10": {
+    "Stance": "Equity-centered policies and core services over punitive approaches",
+    "Reason": "Reliable sanitation, public restrooms, and services in underserved areas address root causes. Avoiding harsh criminalization prevents disproportionate impacts while improving cleanliness sustainably."
+  }
+}

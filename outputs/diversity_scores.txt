@@ -1,0 +1,39 @@
+SEMANTIC DIVERSITY SCORES
+============================================================
+
+Individual File Scores:
+------------------------------------------------------------
+1-shot-criteria-based_campus_protests.json         0.6326
+1-shot-criteria-based_elections.json               0.6058
+1-shot-criteria-based_littering.json               0.5136
+1-shot-free-form_campus_protests.json              0.5175
+1-shot-free-form_elections.json                    0.5361
+1-shot-free-form_littering.json                    0.4753
+criteria-based_campus_protests.json                0.5758
+criteria-based_elections.json                      0.6141
+criteria-based_littering.json                      0.5126
+free-form_campus_protests.json                     0.5103
+free-form_elections.json                           0.5787
+free-form_littering.json                           0.5596
+
+
+Scores Grouped by Topic:
+------------------------------------------------------------
+
+CAMPUS_PROTESTS:
+  1-shot-criteria-based          0.6326
+  1-shot-free-form               0.5175
+  criteria-based                 0.5758
+  free-form                      0.5103
+
+ELECTIONS:
+  1-shot-criteria-based          0.6058
+  1-shot-free-form               0.5361
+  criteria-based                 0.6141
+  free-form                      0.5787
+
+LITTERING:
+  1-shot-criteria-based          0.5136
+  1-shot-free-form               0.4753
+  criteria-based                 0.5126
+  free-form                      0.5596

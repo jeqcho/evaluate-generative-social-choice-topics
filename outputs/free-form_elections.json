@@ -1,0 +1,42 @@
+{
+  "1": {
+    "Stance": "Require voter-verified paper ballots and conduct routine risk-limiting audits after every contest.",
+    "Reason": "Physical ballots plus statistically rigorous audits provide tangible, evidence-based checks that detect and correct errors, boosting confidence in outcomes."
+  },
+  "2": {
+    "Stance": "Make election processes radically transparent: livestream tabulation, publish precinct-level cast vote records and chain-of-custody logs, and expand multiparty observation.",
+    "Reason": "When the steps and data are visible and verifiable to anyone, speculation is replaced with firsthand evidence, reducing suspicion across the spectrum."
+  },
+  "3": {
+    "Stance": "Set national minimum standards for security, auditing, and reporting while preserving decentralized state and local administration.",
+    "Reason": "A consistent baseline reduces confusion and conspiracy theories across states, while local control maintains resilience and community trust."
+  },
+  "4": {
+    "Stance": "Professionalize and protect the election workforce with better pay, training, bipartisan staffing, and legal safeguards against harassment.",
+    "Reason": "Competent, well-supported officials make fewer mistakes and are less likely to leave the field, and bipartisan teams counter perceptions of partisan bias."
+  },
+  "5": {
+    "Stance": "Run sustained, nonpartisan public education and real-time communications about how elections work, timelines, and what delays mean.",
+    "Reason": "Pre-bunking rumors and explaining normal procedures (like mail-ballot processing or recounts) prevents benign events from being misread as misconduct."
+  },
+  "6": {
+    "Stance": "Pursue a cross-partisan bargain: implement voter ID while providing universal, free IDs, automatic registration, and strong provisional-ballot safeguards.",
+    "Reason": "This addresses integrity concerns without excluding eligible voters, balancing security with access to build broader trust."
+  },
+  "7": {
+    "Stance": "Adopt open-source voting technology with independent code audits, public bug bounties, and mandatory paper backups.",
+    "Reason": "Transparent, inspectable systems invite expert scrutiny that hardens security and lets the public see how safeguards work."
+  },
+  "8": {
+    "Stance": "Establish independent, bipartisan oversight bodies and enforce rules against intimidation, interference, and deliberate election-related deception by officials and candidates.",
+    "Reason": "Credible referees and accountability for bad actors deter manipulation and signal that the rules apply evenly to everyone."
+  },
+  "9": {
+    "Stance": "Simplify and standardize procedures\u2014prioritize in-person, single-day voting with ample early voting and limited, well-verified absentee options.",
+    "Reason": "A clearer, less complex process reduces errors, processing delays, and misunderstandings that can fuel distrust."
+  },
+  "10": {
+    "Stance": "Involve communities directly through citizen audit panels, sortition-based observers, public canvass boards, and local town halls to review results and audits.",
+    "Reason": "People trust what they help oversee; hands-on participation builds legitimacy and shared understanding across political divides."
+  }
+}
